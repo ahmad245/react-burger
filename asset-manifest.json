@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-burger/static/css/main.cc96d433.chunk.css",
+    "main.js": "/react-burger/static/js/main.09892c3f.chunk.js",
+    "main.js.map": "/react-burger/static/js/main.09892c3f.chunk.js.map",
+    "runtime-main.js": "/react-burger/static/js/runtime-main.4bb99fda.js",
+    "runtime-main.js.map": "/react-burger/static/js/runtime-main.4bb99fda.js.map",
+    "static/js/2.0ba8386d.chunk.js": "/react-burger/static/js/2.0ba8386d.chunk.js",
+    "static/js/2.0ba8386d.chunk.js.map": "/react-burger/static/js/2.0ba8386d.chunk.js.map",
+    "static/js/3.35bf3360.chunk.js": "/react-burger/static/js/3.35bf3360.chunk.js",
+    "static/js/3.35bf3360.chunk.js.map": "/react-burger/static/js/3.35bf3360.chunk.js.map",
+    "index.html": "/react-burger/index.html",
+    "static/css/main.cc96d433.chunk.css.map": "/react-burger/static/css/main.cc96d433.chunk.css.map",
+    "static/js/2.0ba8386d.chunk.js.LICENSE.txt": "/react-burger/static/js/2.0ba8386d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bb99fda.js",
+    "static/js/2.0ba8386d.chunk.js",
+    "static/css/main.cc96d433.chunk.css",
+    "static/js/main.09892c3f.chunk.js"
+  ]
+}
