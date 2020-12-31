@@ -1,0 +1,28 @@
+.Link{
+    margin: 0 .8rem !important;
+  
+}
+.Icon{
+    display: none !important;
+}
+.Root{
+    flex-grow: 1; 
+}
+.MuiTypography {
+    font-size: 1rem;
+    /* font-family: "Roboto", "Helvetica", "Arial", sans-serif; */
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.00938em;
+    flex-grow: 1;
+}
+@media (max-width: 499px){
+    .Links{
+        display: none;
+    }
+}
+@media (max-width: 499px){
+    .Icon{
+        display: block !important;
+    }
+}
